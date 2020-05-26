@@ -1,0 +1,18 @@
+/* 
+Instructions: 
+
+Add any custom styles here.
+
+*/
+#content {
+  text-align: left;
+  color: #315da9;
+  text-emphasis: bolder;
+  font-size: 24px;
+}
+body {
+  background-color: #888788;
+}
+body h2 {
+  color: ffffff;
+}
