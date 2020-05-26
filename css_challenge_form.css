@@ -1,0 +1,12 @@
+/* add any custom styling here */
+#opt {
+  display: none;
+}
+
+#opt.show {
+  display: block;
+}
+
+#thankumsg {
+  display: none;
+}
